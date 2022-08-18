@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/api/*"
+  to = "https://inet-mern.herokuapp.com/:splat"
+  status = 200
